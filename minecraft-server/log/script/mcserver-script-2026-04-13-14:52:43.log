@@ -1,0 +1,9 @@
+Apr 13 14:52:33.827 mcserver: START: FAIL: Unable to start LinuxGSM
+Apr 13 14:52:33.840 mcserver: START: INFO: LinuxGSM version: v25.2.0
+Apr 13 14:52:33.842 mcserver: START: FAIL: core_exit.sh exiting with code: 1
+Apr 13 14:52:43.768 mcserver: CORE: PASS: Using cached IP as public IP address
+Apr 13 14:52:44.473 mcserver: CORE: PASS: Downloading command_console.sh...
+Apr 13 14:52:50.084 mcserver: CONSOLE: ERROR: Failed to access: Server not running
+Apr 13 14:53:18.955 mcserver: START: PASS: Using cached IP as public IP address
+Apr 13 14:53:20.338 mcserver: START: PASS: Using cached IP as public IP address
+Apr 13 14:53:20.983 mcserver: START: INFO: Rotating log files
