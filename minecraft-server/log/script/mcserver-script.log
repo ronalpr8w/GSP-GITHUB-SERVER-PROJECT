@@ -1,11 +1,21 @@
-Apr 13 15:36:41.793 mcserver: START: PASS: Started LinuxGSM
-Apr 13 15:36:41.917 mcserver: START: PASS: Started LinuxGSM
-Apr 13 15:36:41.965 mcserver: START: INFO: LinuxGSM version: v25.2.0
-Apr 13 15:36:41.976 mcserver: START: PASS: core_exit.sh exiting with code: 0
-Apr 13 15:41:24.562 mcserver: CORE: PASS: Using cached IP as public IP address
-Apr 13 15:41:26.159 mcserver: STOP: PASS: Using cached IP as public IP address
-Apr 13 15:41:28.223 mcserver: STOP: PASS: Using cached IP as public IP address
-Apr 13 15:41:28.872 mcserver: STOP: INFO: Graceful: sending "stop"
-Apr 13 15:41:35.716 mcserver: STOP: PASS: Graceful: sending "stop": OK: 5 seconds
-Apr 13 15:41:35.792 mcserver: STOP: INFO: LinuxGSM version: v25.2.0
-Apr 13 15:41:35.799 mcserver: STOP: PASS: core_exit.sh exiting with code: 0
+Apr 13 17:19:19.820 mcserver: START: PASS: Started LinuxGSM
+Apr 13 17:19:19.929 mcserver: START: PASS: Started LinuxGSM
+Apr 13 17:19:19.947 mcserver: START: INFO: LinuxGSM version: v25.2.0
+Apr 13 17:19:19.949 mcserver: START: PASS: core_exit.sh exiting with code: 0
+Apr 13 17:25:15.823 mcserver: CORE: PASS: Using cached IP as public IP address
+Apr 13 17:25:18.327 mcserver: START: PASS: Using cached IP as public IP address
+Apr 13 17:25:22.376 mcserver: START: ERROR: LinuxGSM is already running
+Apr 13 17:25:22.390 mcserver: START: INFO: LinuxGSM version: v25.2.0
+Apr 13 17:25:22.392 mcserver: START: ERROR: core_exit.sh exiting with code: 2
+Apr 13 17:28:21.514 mcserver: CORE: PASS: Using cached IP as public IP address
+Apr 13 17:28:23.419 mcserver: START: PASS: Using cached IP as public IP address
+Apr 13 17:28:25.490 mcserver: START: ERROR: LinuxGSM is already running
+Apr 13 17:28:25.504 mcserver: START: INFO: LinuxGSM version: v25.2.0
+Apr 13 17:28:25.506 mcserver: START: ERROR: core_exit.sh exiting with code: 2
+Apr 13 17:41:46.442 mcserver: CORE: PASS: Using cached IP as public IP address
+Apr 13 17:41:47.617 mcserver: STOP: PASS: Using cached IP as public IP address
+Apr 13 17:41:50.761 mcserver: STOP: PASS: Using cached IP as public IP address
+Apr 13 17:41:51.386 mcserver: STOP: INFO: Graceful: sending "stop"
+Apr 13 17:41:54.881 mcserver: STOP: PASS: Graceful: sending "stop": OK: 3 seconds
+Apr 13 17:41:54.919 mcserver: STOP: INFO: LinuxGSM version: v25.2.0
+Apr 13 17:41:54.921 mcserver: STOP: PASS: core_exit.sh exiting with code: 0
